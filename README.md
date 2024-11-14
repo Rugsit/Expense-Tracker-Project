@@ -15,7 +15,7 @@
 ![expenseimg](https://github.com/user-attachments/assets/ef77fd94-6e67-45c7-b63a-27d66de64e90)
 
 ## Live Demo
-https://image-gallery-project-omega.vercel.app/
+https://expense-tracker-project-gamma.vercel.app/
 
 ## Descriptions
 - This project is created for practicing web development and enhancing skills in React, TailwindCSS, Neovim, REST APIs, as well as JavaScript and HTML.
